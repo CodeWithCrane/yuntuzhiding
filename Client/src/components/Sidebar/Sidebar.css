@@ -1,0 +1,33 @@
+.layout .sidebar {
+    background-color: white;
+}
+
+.logo {
+    padding-left: 24px;
+    margin-top: 24px;
+    margin-bottom: 16px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #1296db;
+
+}
+
+.logo img {
+    position: asbolute;
+    top: 0;
+    left: 0;
+    width: 35px;
+    height: 35px;
+}
+
+.sidebar .ant-menu-item {
+    height: 60px;
+}
+
+.sidebar .ant-menu .ant-menu-item:hover {
+    /* background-color: #1296db; */
+}

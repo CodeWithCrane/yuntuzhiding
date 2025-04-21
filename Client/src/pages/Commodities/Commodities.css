@@ -1,0 +1,15 @@
+:where(.css-dev-only-do-not-override-d2lrxs).ant-drawer-right>.ant-drawer-content-wrapper {
+    width: 250px !important;
+    top: 166px;
+    right: 40px;
+    bottom: 0;
+    box-shadow: -6px 0 16px 0 rgba(0, 0, 0, 0.08), -3px 0 6px -4px rgba(0, 0, 0, 0.12), -9px 0 28px 8px rgba(0, 0, 0, 0.05);
+}
+
+ul {
+    list-style: none;
+}
+
+ul li {
+    height: 35px
+}
